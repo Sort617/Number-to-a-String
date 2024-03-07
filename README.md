@@ -54,6 +54,3 @@ python test_number_to_string.py
 ```
 
 The output will indicate whether all test cases pass or if any errors are encountered.
-
-## Contribution
-Contributions to this project are welcome. Please ensure to write tests for new features and run existing tests before submitting a pull request.
